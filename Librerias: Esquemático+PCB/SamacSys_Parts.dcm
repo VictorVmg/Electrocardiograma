@@ -1,0 +1,50 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BLM18PG121SZ1D
+D BL Chip Ferrite Bead 0603
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SG-210STF_40.0000ML3
+D Crystal Oscillator (SPXO) output: cmos
+K
+F https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF_en.pdf
+$ENDCMP
+#
+$CMP RC0805FR-070RL
+D Thick Film Resistors - SMD 0 Ohm 1% 1/4W 150V ZERO OHM JUMPER
+K
+F http://www.yageo.ru/pdf/RC0805.pdf
+$ENDCMP
+#
+$CMP AD8605ARTZ-REEL7
+D Operational Amplifiers
+K
+F 
+$ENDCMP
+#
+$CMP CL0306KRX7R6BB104
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 10V X7R 10%
+K
+F http://www.yageo.com/documents/recent/UPY-X5R_X7R_CL_6.3V-to-50V_1.pdf
+$ENDCMP
+#
+$CMP GRM1885C1H102JA01D
+D Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1000pF 50volts C0G 5%
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+$CMP OPA197IDBVR
+D 36-V, Precision, Rail-to-Rail Input Output, Low Offset Voltage Op Amp
+K
+F http://www.ti.com/lit/gpn/opa197
+$ENDCMP
+#
+#End Doc Library

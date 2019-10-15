@@ -1,0 +1,37 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADS1292RIPBS
+D Analog Front-End 2-Ch 24-Bit 3V TQFP32 ADS1292RIPBS, Analogue Front End IC, 2-channel 24 bit, 8ksps Serial-SPI, 32-Pin TQFP
+F http://uk.rs-online.com/web/p/products/7741219
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP SJ2-35853A-SMT-TR
+D Phone Connectors 3.5mm Narrow Ftprint 3 conductor 0 switch
+K
+F https://www.cui.com/product/resource/sj2-3585x-smt.pdf
+$ENDCMP
+#
+$CMP ISOW7841FDWER
+D High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power
+K
+F http://www.ti.com/lit/gpn/isow7841
+$ENDCMP
+#
+$CMP ISOW7842DWER
+D High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power
+K
+F http://www.ti.com/lit/gpn/isow7842
+$ENDCMP
+#
+$CMP LP3985IM5-3.0_NOPB
+D Texas Instruments LP3985IM5-3.0/NOPB, LDO Voltage Regulator, 0.15A, 3 V 3%, 2.5  6 Vin, 5-Pin SOT-23
+K
+F http://www.ti.com/lit/gpn/lp3985
+$ENDCMP
+#
+#End Doc Library

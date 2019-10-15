@@ -1,0 +1,387 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# ADS1292RIPBS-SamacSys_Parts
+#
+DEF ADS1292RIPBS-SamacSys_Parts IC 0 30 Y Y 1 F N
+F0 "IC" -50 1035 50 H V L CNN
+F1 "ADS1292RIPBS-SamacSys_Parts" -285 -700 50 H V L CNN
+F2 "QFP50P700X700X120-32N" 1150 900 50 H I L CNN
+F3 "http://uk.rs-online.com/web/p/products/7741219" 1150 800 50 H I L CNN
+F4 "Analog Front-End 2-Ch 24-Bit 3V TQFP32 ADS1292RIPBS, Analogue Front End IC, 2-channel 24 bit, 8ksps Serial-SPI, 32-Pin TQFP" 1150 700 50 H I L CNN "Description"
+F5 "1.2" 1150 600 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 500 50 H I L CNN "Manufacturer_Name"
+F7 "ADS1292RIPBS" 1150 400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-ADS1292RIPBS" 1150 300 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-ADS1292RIPBS" 1150 200 50 H I L CNN "Mouser Price/Stock"
+F10 "1626118" 1150 100 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/1626118" 1150 0 50 H I L CNN "RS Price/Stock"
+DRAW
+S -500 995 500 -650 0 1 0 N
+X PGA1N 1 -600 -400 100 R 39 31 1 1 O
+X VREFN 10 600 -205 100 L 39 31 1 1 I
+X VCAP1 11 600 -350 100 L 39 31 1 1 I
+X AVDD 12 -600 950 100 R 39 31 1 1 W
+X AVSS 13 600 -550 100 L 39 31 1 1 O
+X CLKSEL 14 -600 -100 100 R 39 31 1 1 I
+X PWDN/RESET 15 600 850 100 L 39 31 1 1 I
+X START 16 -600 -5 100 R 39 31 1 1 I
+X CLK 17 -600 -50 100 R 39 31 1 1 I
+X CS 18 600 245 100 L 39 31 1 1 I
+X DIN 19 600 50 100 L 39 31 1 1 I
+X PGA1P 2 -600 -300 100 R 39 31 1 1 O
+X SCLK 20 600 100 100 L 39 31 1 1 I
+X DOUT 21 600 -5 100 L 39 31 1 1 O
+X DRDY 22 600 300 100 L 39 31 1 1 O
+X DVDD 23 -600 900 100 R 39 31 1 1 W
+X DGND 24 600 -600 100 L 39 31 1 1 O
+X GPIO2/RLCK2 25 600 895 100 L 39 31 1 1 B
+X GPIO1/RLCK1 26 600 950 100 L 39 31 1 1 B
+X VCAP2 27 600 -400 100 L 39 31 1 1 I
+X RLDINV 28 600 705 100 L 39 31 1 1 I
+X RLDIN/RLDREF 29 600 500 100 L 39 31 1 1 I
+X IN1N 3 -600 195 100 R 39 31 1 1 I
+X RLDOUT 30 600 595 100 L 39 31 1 1 O
+X RESP_MODP/IN3P 31 -600 600 100 R 39 31 1 1 B
+X RESP_MODN/IN3N 32 -600 300 100 R 39 31 1 1 B
+X IN1P 4 -600 700 100 R 39 31 1 1 I
+X IN2N 5 -600 400 100 R 39 31 1 1 I
+X IN2P 6 -600 500 100 R 39 31 1 1 I
+X PGA2N 7 -600 -600 100 R 39 31 1 1 O
+X PGA2P 8 -600 -505 100 R 39 31 1 1 O
+X VREFP 9 600 -100 100 L 39 31 1 1 B
+ENDDRAW
+ENDDEF
+#
+# BLM18PG121SZ1D
+#
+DEF BLM18PG121SZ1D FB 0 30 Y Y 1 F N
+F0 "FB" 650 300 50 H V L CNN
+F1 "BLM18PG121SZ1D" 650 200 50 H V L CNN
+F2 "BEADC1608X95N" 650 100 50 H I L CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb" 650 0 50 H I L CNN
+F4 "BL Chip Ferrite Bead 0603" 650 -100 50 H I L CNN "Description"
+F5 "0.95" 650 -200 50 H I L CNN "Height"
+F6 "Murata Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BLM18PG121SZ1D" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-BLM18PG121SZ1D" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=81-BLM18PG121SZ1D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 800 0 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# ISOW7841FDWER-SamacSys_Parts
+#
+DEF ISOW7841FDWER-SamacSys_Parts IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "ISOW7841FDWER-SamacSys_Parts" 1150 200 50 H V L CNN
+F2 "SOIC127P1030X265-16N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/isow7841" 1150 0 50 H I L CNN
+F4 "High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power" 1150 -100 50 H I L CNN "Description"
+F5 "2.65" 1150 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ISOW7841FDWER" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-ISOW7841FDWER" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-ISOW7841FDWER" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -800 200 -800 200 100 N
+X VCC 1 0 0 200 R 50 50 0 0 B
+X SEL 10 1300 -600 200 L 50 50 0 0 B
+X IND 11 1300 -500 200 L 50 50 0 0 B
+X OUTC 12 1300 -400 200 L 50 50 0 0 B
+X OUTB 13 1300 -300 200 L 50 50 0 0 B
+X OUTA 14 1300 -200 200 L 50 50 0 0 B
+X GND2_2 15 1300 -100 200 L 50 50 0 0 B
+X VISO 16 1300 0 200 L 50 50 0 0 B
+X GND1_1 2 0 -100 200 R 50 50 0 0 B
+X INA 3 0 -200 200 R 50 50 0 0 B
+X INB 4 0 -300 200 R 50 50 0 0 B
+X INC 5 0 -400 200 R 50 50 0 0 B
+X OUTD 6 0 -500 200 R 50 50 0 0 B
+X NC 7 0 -600 200 R 50 50 0 0 B
+X GND1_2 8 0 -700 200 R 50 50 0 0 B
+X GND2_1 9 1300 -700 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# ISOW7842DWER-SamacSys_Parts
+#
+DEF ISOW7842DWER-SamacSys_Parts IC 0 30 Y Y 1 F N
+F0 "IC" 1150 300 50 H V L CNN
+F1 "ISOW7842DWER-SamacSys_Parts" 1150 200 50 H V L CNN
+F2 "SOIC127P1030X265-16N" 1150 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/isow7842" 1150 0 50 H I L CNN
+F4 "High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power" 1150 -100 50 H I L CNN "Description"
+F5 "2.65" 1150 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1150 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ISOW7842DWER" 1150 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-ISOW7842DWER" 1150 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-ISOW7842DWER" 1150 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1100 100 1100 -800 200 -800 200 100 N
+X VCC 1 0 0 200 R 50 50 0 0 B
+X SEL 10 1300 -600 200 L 50 50 0 0 B
+X IND 11 1300 -500 200 L 50 50 0 0 B
+X INC 12 1300 -400 200 L 50 50 0 0 B
+X OUTB 13 1300 -300 200 L 50 50 0 0 B
+X OUTA 14 1300 -200 200 L 50 50 0 0 B
+X GND2_2 15 1300 -100 200 L 50 50 0 0 B
+X VISO 16 1300 0 200 L 50 50 0 0 B
+X GND1_1 2 0 -100 200 R 50 50 0 0 B
+X INA 3 0 -200 200 R 50 50 0 0 B
+X INB 4 0 -300 200 R 50 50 0 0 B
+X OUTC 5 0 -400 200 R 50 50 0 0 B
+X OUTD 6 0 -500 200 R 50 50 0 0 B
+X NC 7 0 -600 200 R 50 50 0 0 B
+X GND1_2 8 0 -700 200 R 50 50 0 0 B
+X GND2_1 9 1300 -700 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# LP3985IM5-3.0_NOPB-SamacSys_Parts
+#
+DEF LP3985IM5-3.0_NOPB-SamacSys_Parts IC 0 30 Y Y 1 F N
+F0 "IC" 1050 300 50 H V L CNN
+F1 "LP3985IM5-3.0_NOPB-SamacSys_Parts" 1050 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 1050 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/lp3985" 1050 0 50 H I L CNN
+F4 "Texas Instruments LP3985IM5-3.0/NOPB, LDO Voltage Regulator, 0.15A, 3 V 3%, 2.5  6 Vin, 5-Pin SOT-23" 1050 -100 50 H I L CNN "Description"
+F5 "1.45" 1050 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 -300 50 H I L CNN "Manufacturer_Name"
+F7 "LP3985IM5-3.0/NOPB" 1050 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "926-3985IM5-3.0/NOPB" 1050 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=926-3985IM5-3.0%2FNOPB" 1050 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "1626345" 1050 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/1626345" 1050 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+P 5 0 1 6 200 100 1000 100 1000 -300 200 -300 200 100 N
+X IN 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 B
+X EN 3 0 -200 200 R 50 50 0 0 B
+X BYPASS 4 1200 0 200 L 50 50 0 0 B
+X OUT 5 1200 -100 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# NE555DR
+#
+DEF NE555DR IC 0 30 Y Y 1 F N
+F0 "IC" 1050 600 50 H V L CNN
+F1 "NE555DR" 1050 500 50 H V L CNN
+F2 "SOIC127P600X175-8N" 1050 400 50 H I L CNN
+F3 "http://www.ti.com/lit/ds/symlink/ne555.pdf" 1050 300 50 H I L CNN
+F4 "Single Precision Timer" 1050 200 50 H I L CNN "Description"
+F5 "1.75" 1050 100 50 H I L CNN "Height"
+F6 "Texas Instruments" 1050 0 50 H I L CNN "Manufacturer_Name"
+F7 "NE555DR" 1050 -100 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-NE555DR" 1050 -200 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-NE555DR" 1050 -300 50 H I L CNN "Mouser Price/Stock"
+F10 "1218414" 1050 -400 50 H I L CNN "RS Part Number"
+F11 "http//uk.rs-online.com/web/p/products/1218414" 1050 -500 50 H I L CNN "RS Price/Stock"
+DRAW
+P 5 0 1 6 200 400 1000 400 1000 -800 200 -800 200 400 N
+X GND 1 600 -1000 200 U 50 50 0 0 B
+X TRIG 2 0 -400 200 R 50 50 0 0 B
+X OUT 3 1200 -200 200 L 50 50 0 0 B
+X ~RESET 4 0 0 200 R 50 50 0 0 B
+X CONT 5 500 600 200 D 50 50 0 0 B
+X THRES 6 0 -300 200 R 50 50 0 0 B
+X DISCH 7 0 -100 200 R 50 50 0 0 B
+X VCC 8 700 600 200 D 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+# SJ2-35853A-SMT-TR-SamacSys_Parts
+#
+DEF SJ2-35853A-SMT-TR-SamacSys_Parts J 0 30 Y Y 1 F N
+F0 "J" 750 300 50 H V L CNN
+F1 "SJ2-35853A-SMT-TR-SamacSys_Parts" 750 200 50 H V L CNN
+F2 "SJ235853ASMTTR" 750 100 50 H I L CNN
+F3 "https://www.cui.com/product/resource/sj2-3585x-smt.pdf" 750 0 50 H I L CNN
+F4 "Phone Connectors 3.5mm Narrow Ftprint 3 conductor 0 switch" 750 -100 50 H I L CNN "Description"
+F5 "3" 750 -200 50 H I L CNN "Height"
+F6 "CUI" 750 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SJ2-35853A-SMT-TR" 750 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "490-SJ2-35853ASMT-TR" 750 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=490-SJ2-35853ASMT-TR" 750 -600 50 H I L CNN "Mouser Price/Stock"
+DRAW
+P 5 0 1 6 200 100 700 100 700 -200 200 -200 200 100 N
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 900 0 200 L 50 50 0 0 B
+X 3 3 0 -100 200 R 50 50 0 0 B
+X 10 4 900 -100 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model BLM18PG121SZ1D
+#/914591/120595/2.38/2/5/Ferrite Bead
+DEF BLM18PG121SZ1D FB 0 30 Y Y 1 F N
+F0 "FB" 650 300 50 H V L CNN
+F1 "BLM18PG121SZ1D" 650 200 50 H V L CNN
+F2 "BEADC1608X95N" 650 100 50 H I L CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb" 650 0 50 H I L CNN
+F4 "BL Chip Ferrite Bead 0603" 650 -100 50 H I L CNN "Description"
+F5 "0.95" 650 -200 50 H I L CNN "Height"
+F6 "Murata Electronics" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BLM18PG121SZ1D" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-BLM18PG121SZ1D" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=81-BLM18PG121SZ1D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 650 -700 50 H I L CNN "RS Part Number"
+F11 "" 650 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X 1 1 0 0 200 R 50 50 0 0 B
+X 2 2 800 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 600 100 600 -100 200 -100 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model SG-210STF_40.0000ML3
+#/885654/120595/2.38/4/4/Crystal or Oscillator
+DEF SG-210STF_40.0000ML3 Y 0 30 Y Y 1 F N
+F0 "Y" 850 300 50 H V L CNN
+F1 "SG-210STF_40.0000ML3" 850 200 50 H V L CNN
+F2 "SG-210-STF_1" 850 100 50 H I L CNN
+F3 "https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF_en.pdf" 850 0 50 H I L CNN
+F4 "Crystal Oscillator (SPXO) output: cmos" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "Epson Timing" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SG-210STF 40.0000ML3" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "732-SG210STF40.0L3" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=732-SG210STF40.0L3" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "RS Part Number"
+F11 "" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X ST 1 0 0 200 R 50 50 0 0 B
+X GND 2 0 -100 200 R 50 50 0 0 B
+X OUT 3 1000 0 200 L 50 50 0 0 B
+X VCC 4 1000 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model RC0805FR-070RL
+#/572688/120595/2.38/2/5/Resistor
+DEF RC0805FR-070RL R 0 30 Y Y 1 F N
+F0 "R" 550 250 50 H V L CNN
+F1 "RC0805FR-070RL" 550 150 50 H V L CNN
+F2 "RESC2012X60N" 550 50 50 H I L CNN
+F3 "http://www.yageo.ru/pdf/RC0805.pdf" 550 -50 50 H I L CNN
+F4 "Thick Film Resistors - SMD 0 Ohm 1% 1/4W 150V ZERO OHM JUMPER" 550 -150 50 H I L CNN "Description"
+F5 "0.6" 550 -250 50 H I L CNN "Height"
+F6 "YAGEO (PHYCOMP)" 550 -350 50 H I L CNN "Manufacturer_Name"
+F7 "RC0805FR-070RL" 550 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "603-RC0805FR-070RL" 550 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=603-RC0805FR-070RL" 550 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 550 -750 50 H I L CNN "RS Part Number"
+F11 "" 550 -850 50 H I L CNN "RS Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 B
+X ~ 2 700 0 200 L 50 50 0 0 B
+P 5 0 1 6 200 50 500 50 500 -50 200 -50 200 50 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model AD8605ARTZ-REEL7
+#/271344/120595/2.38/5/0/Integrated Circuit
+DEF AD8605ARTZ-REEL7 IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "AD8605ARTZ-REEL7" 850 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 850 100 50 H I L CNN
+F3 "" 850 0 50 H I L CNN
+F4 "Operational Amplifiers" 850 -100 50 H I L CNN "Description"
+F5 "" 850 -200 50 H I L CNN "Height"
+F6 "Analog Devices" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "AD8605ARTZ-REEL7" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "584-AD8605ARTZ-R7" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8605ARTZ-R7" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "9128182" 850 -700 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/9128182" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 B
+X V- 2 0 -100 200 R 50 50 0 0 B
+X +IN 3 0 -200 200 R 50 50 0 0 B
+X -IN 4 1000 0 200 L 50 50 0 0 B
+X V+ 5 1000 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model CL0306KRX7R6BB104
+#/1373913/120595/2.38/2/4/Capacitor
+DEF CL0306KRX7R6BB104 C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "CL0306KRX7R6BB104" 350 150 50 H V L CNN
+F2 "CAPC0816X60N" 350 50 50 H I L CNN
+F3 "http://www.yageo.com/documents/recent/UPY-X5R_X7R_CL_6.3V-to-50V_1.pdf" 350 -50 50 H I L CNN
+F4 "Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 10V X7R 10%" 350 -150 50 H I L CNN "Description"
+F5 "0.6" 350 -250 50 H I L CNN "Height"
+F6 "YAGEO (PHYCOMP)" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "CL0306KRX7R6BB104" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "603-CL306KRX7R6BB104" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=603-CL306KRX7R6BB104" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "" 350 -750 50 H I L CNN "RS Part Number"
+F11 "" 350 -850 50 H I L CNN "RS Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 B
+X ~ 2 500 0 200 L 50 50 0 0 B
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model GRM1885C1H102JA01D
+#/275227/120595/2.38/2/5/Capacitor
+DEF GRM1885C1H102JA01D C 0 30 Y Y 1 F N
+F0 "C" 350 250 50 H V L CNN
+F1 "GRM1885C1H102JA01D" 350 150 50 H V L CNN
+F2 "CAPC1608X90N" 350 50 50 H I L CNN
+F3 "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf" 350 -50 50 H I L CNN
+F4 "Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1000pF 50volts C0G 5%" 350 -150 50 H I L CNN "Description"
+F5 "0.9" 350 -250 50 H I L CNN "Height"
+F6 "Murata Electronics" 350 -350 50 H I L CNN "Manufacturer_Name"
+F7 "GRM1885C1H102JA01D" 350 -450 50 H I L CNN "Manufacturer_Part_Number"
+F8 "81-GRM39C102J50" 350 -550 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM39C102J50" 350 -650 50 H I L CNN "Mouser Price/Stock"
+F10 "6242418P" 350 -750 50 H I L CNN "RS Part Number"
+F11 "http://uk.rs-online.com/web/p/products/6242418P" 350 -850 50 H I L CNN "RS Price/Stock"
+DRAW
+X ~ 1 0 0 200 R 50 50 0 0 B
+X ~ 2 500 0 200 L 50 50 0 0 B
+P 2 0 1 6 220 100 220 -100 N
+P 2 0 1 6 280 100 280 -100 N
+P 2 0 1 6 200 0 220 0 N
+P 2 0 1 6 280 0 300 0 N
+ENDDRAW
+ENDDEF
+#
+#SamacSys ECAD Model OPA197IDBVR
+#/333752/120595/2.38/5/4/Integrated Circuit
+DEF OPA197IDBVR IC 0 30 Y Y 1 F N
+F0 "IC" 850 300 50 H V L CNN
+F1 "OPA197IDBVR" 850 200 50 H V L CNN
+F2 "SOT95P280X145-5N" 850 100 50 H I L CNN
+F3 "http://www.ti.com/lit/gpn/opa197" 850 0 50 H I L CNN
+F4 "36-V, Precision, Rail-to-Rail Input Output, Low Offset Voltage Op Amp" 850 -100 50 H I L CNN "Description"
+F5 "1.45" 850 -200 50 H I L CNN "Height"
+F6 "Texas Instruments" 850 -300 50 H I L CNN "Manufacturer_Name"
+F7 "OPA197IDBVR" 850 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "595-OPA197IDBVR" 850 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.com/Search/Refine.aspx?Keyword=595-OPA197IDBVR" 850 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 850 -700 50 H I L CNN "RS Part Number"
+F11 "" 850 -800 50 H I L CNN "RS Price/Stock"
+DRAW
+X OUT 1 0 0 200 R 50 50 0 0 B
+X V- 2 0 -100 200 R 50 50 0 0 B
+X +IN 3 0 -200 200 R 50 50 0 0 B
+X -IN 4 1000 0 200 L 50 50 0 0 B
+X V+ 5 1000 -100 200 L 50 50 0 0 B
+P 5 0 1 6 200 100 800 100 800 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library
