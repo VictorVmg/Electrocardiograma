@@ -1,0 +1,1523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>D:\electrocardiograma\proyecto\electrocardiograma+respiracion.sch</source>
+    <date>20/6/2019 9:40:43 p. m.</date>
+    <tool>Eeschema (5.1.2)-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>electrocardiograma+respiracion.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Principal/" tstamps="/5CA7F59F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Ads1292r.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Proteccioón/" tstamps="/5CA9273F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Aisladores.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Pantalla/" tstamps="/5CBDE26F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Pantalla.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C14">
+      <value>47nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CA835AE</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>47nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CA846FD</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CA92A25</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CA943E3</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>C_Small</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CA96326</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>100K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CA97FF3</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>3nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAA2C39</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>51.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAA3197</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAA6249</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAA767A</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAA7A1C</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>40.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAABCDE</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAAD600</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>0.1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAB1852</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>3nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9DDF</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>51.1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9DE5</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9DF5</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9DFC</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>10M</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9E02</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>40.2K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9E13</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>2.2nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9E1A</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>0.1uf</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CAC9E24</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB000BE</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB0F1A7</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB3FF18</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB48A53</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>ADS1292RIPBS-SamacSys_Parts</value>
+      <footprint>Package_DFN_QFN:QFN-32-1EP_7x7mm_P0.65mm_EP4.65x4.65mm_ThermalVias</footprint>
+      <fields>
+        <field name="Description">Analog Front-End 2-Ch 24-Bit 3V TQFP32 ADS1292RIPBS, Analogue Front End IC, 2-channel 24 bit, 8ksps Serial-SPI, 32-Pin TQFP</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">ADS1292RIPBS</field>
+        <field name="Mouser Part Number">595-ADS1292RIPBS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-ADS1292RIPBS</field>
+        <field name="RS Part Number">1626118</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1626118</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="ADS1292RIPBS-SamacSys_Parts-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CACF983</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>SG-210STF_40.0000ML3</value>
+      <footprint>footprints-SamacSys:oscilator</footprint>
+      <datasheet>https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF_en.pdf</datasheet>
+      <fields>
+        <field name="Description">Crystal Oscillator (SPXO) output: cmos</field>
+        <field name="Manufacturer_Name">Epson Timing</field>
+        <field name="Manufacturer_Part_Number">SG-210STF 40.0000ML3</field>
+        <field name="Mouser Part Number">732-SG210STF40.0L3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=732-SG210STF40.0L3</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="SG-210STF_40.0000ML3-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB5620A</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CC0EA93</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CC1906C</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>1uF</value>
+      <footprint>footprints-SamacSys:capacitor invertido</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-X5R_X7R_CL_6.3V-to-50V_1.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 10V X7R 10%</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">CL0306KRX7R6BB104</field>
+        <field name="Mouser Part Number">603-CL306KRX7R6BB104</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=603-CL306KRX7R6BB104</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="CL0306KRX7R6BB104-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB2FA91</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>1uF</value>
+      <footprint>footprints-SamacSys:capacitor invertido</footprint>
+      <datasheet>http://www.yageo.com/documents/recent/UPY-X5R_X7R_CL_6.3V-to-50V_1.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 10V X7R 10%</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">CL0306KRX7R6BB104</field>
+        <field name="Mouser Part Number">603-CL306KRX7R6BB104</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=603-CL306KRX7R6BB104</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="CL0306KRX7R6BB104-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB6B8DE</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>1uF</value>
+      <footprint>footprints-SamacSys:capacitor C0G</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1000pF 50volts C0G 5%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM1885C1H102JA01D</field>
+        <field name="Mouser Part Number">81-GRM39C102J50</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM39C102J50</field>
+        <field name="RS Part Number">6242418P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/6242418P</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="GRM1885C1H102JA01D-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CBA2E00</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>1uF</value>
+      <footprint>footprints-SamacSys:capacitor C0G</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</datasheet>
+      <fields>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1000pF 50volts C0G 5%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM1885C1H102JA01D</field>
+        <field name="Mouser Part Number">81-GRM39C102J50</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM39C102J50</field>
+        <field name="RS Part Number">6242418P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/6242418P</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="GRM1885C1H102JA01D-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CBAB67E</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>0</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CC10102</tstamp>
+    </comp>
+    <comp ref="IC2">
+      <value>OPA197</value>
+      <footprint>footprints-SamacSys:OPAMP197IDBVR</footprint>
+      <fields>
+        <field name="Description">Operational Amplifiers</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8605ARTZ-REEL7</field>
+        <field name="Mouser Part Number">584-AD8605ARTZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8605ARTZ-R7</field>
+        <field name="RS Part Number">9128182</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/9128182</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="AD8605ARTZ-REEL7-SamacSys_Parts" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CB816FF</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CBA317C</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>0.1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CBAE81F</tstamp>
+    </comp>
+    <comp ref="J1">
+      <value>AudioJack3</value>
+      <footprint>Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CC75A99</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>AudioJack3</value>
+      <footprint>Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CC82AB1</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>AudioJack3</value>
+      <footprint>Connector_Audio:Jack_3.5mm_CUI_SJ-3523-SMT_Horizontal</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="AudioJack3" description="Audio Jack, 3 Poles (Stereo / TRS)"/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CC8420F</tstamp>
+    </comp>
+    <comp ref="SJ2">
+      <value>JUMPER</value>
+      <footprint>footprints-SamacSys:SOLDERJUMPER_REFLOW_NOPASTE</footprint>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="SOLDERJUMPERREFLOW_NOPASTE-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue" description=""/>
+      <sheetpath names="/Principal/" tstamps="/5CA7F59F/"/>
+      <tstamp>5CE1FFEF</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CA964D6</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CA9A972</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CA9CB34</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAA7834</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAA8972</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CABF3B1</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAC4183</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAC8B35</tstamp>
+    </comp>
+    <comp ref="FB1">
+      <value>BLM18PG121SZ1D</value>
+      <footprint>footprints-SamacSys:BLM18PG121SZ1D</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</datasheet>
+      <fields>
+        <field name="Description">BL Chip Ferrite Bead 0603</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG121SZ1D</field>
+        <field name="Mouser Part Number">81-BLM18PG121SZ1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-BLM18PG121SZ1D</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="BLM18PG121SZ1D-SamacSys_Parts" description=""/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAA3D2D</tstamp>
+    </comp>
+    <comp ref="IC4">
+      <value>ISOW7841FDWER-SamacSys_Parts</value>
+      <footprint>footprints-SamacSys:ISOW7841FDWER</footprint>
+      <fields>
+        <field name="Description">High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">ISOW7841FDWER</field>
+        <field name="Mouser Part Number">595-ISOW7841FDWER</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-ISOW7841FDWER</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="ISOW7841FDWER-SamacSys_Parts-SamacSys_Parts" description=""/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CADA437</tstamp>
+    </comp>
+    <comp ref="IC3">
+      <value>ISOW7842DWER-SamacSys_Parts</value>
+      <footprint>footprints-SamacSys:ISOW7841FDWER</footprint>
+      <fields>
+        <field name="Description">High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">ISOW7842DWER</field>
+        <field name="Mouser Part Number">595-ISOW7842DWER</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-ISOW7842DWER</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="ISOW7842DWER-SamacSys_Parts-SamacSys_Parts" description=""/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CADC0B6</tstamp>
+    </comp>
+    <comp ref="IC5">
+      <value>LP3985IM5-3.0_NOPB-SamacSys_Parts</value>
+      <footprint>footprints-SamacSys:LP3985IM5-3.0_NOPB</footprint>
+      <fields>
+        <field name="Description">Texas Instruments LP3985IM5-3.0/NOPB, LDO Voltage Regulator, 0.15A, 3 V 3%, 2.5  6 Vin, 5-Pin SOT-23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LP3985IM5-3.0/NOPB</field>
+        <field name="Mouser Part Number">926-3985IM5-3.0/NOPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=926-3985IM5-3.0%2FNOPB</field>
+        <field name="RS Part Number">1626345</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1626345</field>
+      </fields>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="LP3985IM5-3.0_NOPB-SamacSys_Parts-SamacSys_Parts" description=""/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CADD4D2</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>1uF_EMIFIL</value>
+      <footprint>footprints-SamacSys:NFM18PS</footprint>
+      <datasheet>http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</datasheet>
+      <libsource lib="Device" part="EMI_Filter_C" description="EMI filter, single capacitor"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAEA498</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_01x08</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CAC722D</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x08</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x08_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector_Generic" part="Conn_01x08" description="Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CADB1C9</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>1K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Proteccioón/" tstamps="/5CA9273F/"/>
+      <tstamp>5CD2490F</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CCC84E9</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>390K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CD967BB</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>2.2uF/16V</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CDA7B80</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>10uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CDB3500</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>UG-2864HSWEG01</value>
+      <footprint>footprints-SamacSys:display</footprint>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="DISP_OLED_UG-2864HSWEG010.96&quot;-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue" description=""/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>FEEBACA6</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CCC7F10</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CCBF0BB</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CCAE787</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>10K</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="R_Small_US" description="Resistor, small US symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CD1DCB0</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>1N4148W</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>https://www.vishay.com/docs/85748/1n4148w.pdf</datasheet>
+      <libsource lib="Diode" part="1N4148W" description="75V 0.15A Fast Switching Diode, SOD-123"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CDD348D</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CDD5EC7</tstamp>
+    </comp>
+    <comp ref="SJ1">
+      <value>JUMPER</value>
+      <footprint>footprints-SamacSys:SOLDERJUMPER_REFLOW_NOPASTE</footprint>
+      <libsource lib="electrocardiograma+respiracion-rescue" part="SOLDERJUMPERREFLOW_NOPASTE-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue" description=""/>
+      <sheetpath names="/Pantalla/" tstamps="/5CBDE26F/"/>
+      <tstamp>5CDD9267</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="AudioJack3">
+      <description>Audio Jack, 3 Poles (Stereo / TRS)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jack*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">AudioJack3</field>
+      </fields>
+      <pins>
+        <pin num="R" name="~" type="passive"/>
+        <pin num="S" name="~" type="passive"/>
+        <pin num="T" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_01x08">
+      <description>Generic connector, single row, 01x08, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x08</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Feedthrough">
+      <aliases>
+        <alias>EMI_Filter_C</alias>
+      </aliases>
+      <description>Feedthrough capacitor</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Feedthrough</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Small_US">
+      <description>Resistor, small US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="MMSD914">
+      <aliases>
+        <alias>1N4148W</alias>
+        <alias>BAV16W</alias>
+        <alias>1N4448W</alias>
+        <alias>MMSD4148</alias>
+      </aliases>
+      <description>100V 0.2A Switching Diode, SOD-123</description>
+      <docs>https://www.onsemi.com/pub/Collateral/MMSD914T1-D.PDF</docs>
+      <footprints>
+        <fp>D*SOD?123*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">MMSD914</field>
+        <field name="Footprint">Diode_SMD:D_SOD-123</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="AD8605ARTZ-REEL7-SamacSys_Parts">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">AD8605ARTZ-REEL7-SamacSys_Parts</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Description">Operational Amplifiers</field>
+        <field name="Manufacturer_Name">Analog Devices</field>
+        <field name="Manufacturer_Part_Number">AD8605ARTZ-REEL7</field>
+        <field name="Mouser Part Number">584-AD8605ARTZ-R7</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8605ARTZ-R7</field>
+        <field name="RS Part Number">9128182</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/9128182</field>
+      </fields>
+      <pins>
+        <pin num="1" name="OUT" type="BiDi"/>
+        <pin num="2" name="V-" type="BiDi"/>
+        <pin num="3" name="+IN" type="BiDi"/>
+        <pin num="4" name="-IN" type="BiDi"/>
+        <pin num="5" name="V+" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="ADS1292RIPBS-SamacSys_Parts-SamacSys_Parts">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ADS1292RIPBS-SamacSys_Parts-SamacSys_Parts</field>
+        <field name="Footprint">QFP50P700X700X120-32N</field>
+        <field name="Datasheet">http://uk.rs-online.com/web/p/products/7741219</field>
+        <field name="Description">Analog Front-End 2-Ch 24-Bit 3V TQFP32 ADS1292RIPBS, Analogue Front End IC, 2-channel 24 bit, 8ksps Serial-SPI, 32-Pin TQFP</field>
+        <field name="Height">1.2</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">ADS1292RIPBS</field>
+        <field name="Mouser Part Number">595-ADS1292RIPBS</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-ADS1292RIPBS</field>
+        <field name="RS Part Number">1626118</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1626118</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PGA1N" type="output"/>
+        <pin num="2" name="PGA1P" type="output"/>
+        <pin num="3" name="IN1N" type="input"/>
+        <pin num="4" name="IN1P" type="input"/>
+        <pin num="5" name="IN2N" type="input"/>
+        <pin num="6" name="IN2P" type="input"/>
+        <pin num="7" name="PGA2N" type="output"/>
+        <pin num="8" name="PGA2P" type="output"/>
+        <pin num="9" name="VREFP" type="BiDi"/>
+        <pin num="10" name="VREFN" type="input"/>
+        <pin num="11" name="VCAP1" type="input"/>
+        <pin num="12" name="AVDD" type="power_in"/>
+        <pin num="13" name="AVSS" type="output"/>
+        <pin num="14" name="CLKSEL" type="input"/>
+        <pin num="15" name="PWDN/RESET" type="input"/>
+        <pin num="16" name="START" type="input"/>
+        <pin num="17" name="CLK" type="input"/>
+        <pin num="18" name="CS" type="input"/>
+        <pin num="19" name="DIN" type="input"/>
+        <pin num="20" name="SCLK" type="input"/>
+        <pin num="21" name="DOUT" type="output"/>
+        <pin num="22" name="DRDY" type="output"/>
+        <pin num="23" name="DVDD" type="power_in"/>
+        <pin num="24" name="DGND" type="output"/>
+        <pin num="25" name="GPIO2/RLCK2" type="BiDi"/>
+        <pin num="26" name="GPIO1/RLCK1" type="BiDi"/>
+        <pin num="27" name="VCAP2" type="input"/>
+        <pin num="28" name="RLDINV" type="input"/>
+        <pin num="29" name="RLDIN/RLDREF" type="input"/>
+        <pin num="30" name="RLDOUT" type="output"/>
+        <pin num="31" name="RESP_MODP/IN3P" type="BiDi"/>
+        <pin num="32" name="RESP_MODN/IN3N" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="BLM18PG121SZ1D-SamacSys_Parts">
+      <fields>
+        <field name="Reference">FB</field>
+        <field name="Value">BLM18PG121SZ1D-SamacSys_Parts</field>
+        <field name="Footprint">BEADC1608X95N</field>
+        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/support/library/catalog/products/emc/emifil/c31e.ashx?la=en-gb</field>
+        <field name="Description">BL Chip Ferrite Bead 0603</field>
+        <field name="Height">0.95</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">BLM18PG121SZ1D</field>
+        <field name="Mouser Part Number">81-BLM18PG121SZ1D</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-BLM18PG121SZ1D</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="BiDi"/>
+        <pin num="2" name="2" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="CL0306KRX7R6BB104-SamacSys_Parts">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CL0306KRX7R6BB104-SamacSys_Parts</field>
+        <field name="Footprint">CAPC0816X60N</field>
+        <field name="Datasheet">http://www.yageo.com/documents/recent/UPY-X5R_X7R_CL_6.3V-to-50V_1.pdf</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 100nF 10V X7R 10%</field>
+        <field name="Height">0.6</field>
+        <field name="Manufacturer_Name">YAGEO (PHYCOMP)</field>
+        <field name="Manufacturer_Part_Number">CL0306KRX7R6BB104</field>
+        <field name="Mouser Part Number">603-CL306KRX7R6BB104</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=603-CL306KRX7R6BB104</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+        <pin num="2" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="DISP_OLED_UG-2864HSWEG010.96&quot;-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">DISP_OLED_UG-2864HSWEG010.96"-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="NC(GND)@1" type="input"/>
+        <pin num="2" name="C2P" type="input"/>
+        <pin num="3" name="C2N" type="input"/>
+        <pin num="4" name="C1P" type="input"/>
+        <pin num="5" name="C1N" type="input"/>
+        <pin num="6" name="VBAT" type="input"/>
+        <pin num="7" name="NC" type="NotConnected"/>
+        <pin num="8" name="VSS" type="power_in"/>
+        <pin num="9" name="VDD" type="power_in"/>
+        <pin num="10" name="BS0" type="input"/>
+        <pin num="11" name="BS1" type="input"/>
+        <pin num="12" name="BS2" type="input"/>
+        <pin num="13" name="/CS" type="input"/>
+        <pin num="14" name="/RES" type="input"/>
+        <pin num="15" name="DC/I2C_SA0" type="input"/>
+        <pin num="16" name="R/W" type="input"/>
+        <pin num="17" name="E/RD" type="input"/>
+        <pin num="18" name="D0/SPI_SCLK/I2C_SCK" type="BiDi"/>
+        <pin num="19" name="D1/SPI_SDIN/I2C_SDA" type="BiDi"/>
+        <pin num="20" name="D2/I2C_SDA" type="BiDi"/>
+        <pin num="21" name="D3" type="BiDi"/>
+        <pin num="22" name="D4" type="BiDi"/>
+        <pin num="23" name="D5" type="BiDi"/>
+        <pin num="24" name="D6" type="BiDi"/>
+        <pin num="25" name="D7" type="BiDi"/>
+        <pin num="26" name="IREF" type="input"/>
+        <pin num="27" name="VCOMH" type="output"/>
+        <pin num="28" name="VCC" type="power_in"/>
+        <pin num="29" name="VLSS" type="power_in"/>
+        <pin num="30" name="NC(GND)@2" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="GRM1885C1H102JA01D-SamacSys_Parts">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">GRM1885C1H102JA01D-SamacSys_Parts</field>
+        <field name="Footprint">CAPC1608X90N</field>
+        <field name="Datasheet">http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf</field>
+        <field name="Description">Multilayer Ceramic Capacitors MLCC - SMD/SMT 0603 1000pF 50volts C0G 5%</field>
+        <field name="Height">0.9</field>
+        <field name="Manufacturer_Name">Murata Electronics</field>
+        <field name="Manufacturer_Part_Number">GRM1885C1H102JA01D</field>
+        <field name="Mouser Part Number">81-GRM39C102J50</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=81-GRM39C102J50</field>
+        <field name="RS Part Number">6242418P</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/6242418P</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="BiDi"/>
+        <pin num="2" name="~" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="ISOW7841FDWER-SamacSys_Parts-SamacSys_Parts">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ISOW7841FDWER-SamacSys_Parts-SamacSys_Parts</field>
+        <field name="Footprint">SOIC127P1030X265-16N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/isow7841</field>
+        <field name="Description">High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">ISOW7841FDWER</field>
+        <field name="Mouser Part Number">595-ISOW7841FDWER</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-ISOW7841FDWER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="BiDi"/>
+        <pin num="2" name="GND1_1" type="BiDi"/>
+        <pin num="3" name="INA" type="BiDi"/>
+        <pin num="4" name="INB" type="BiDi"/>
+        <pin num="5" name="INC" type="BiDi"/>
+        <pin num="6" name="OUTD" type="BiDi"/>
+        <pin num="7" name="NC" type="BiDi"/>
+        <pin num="8" name="GND1_2" type="BiDi"/>
+        <pin num="9" name="GND2_1" type="BiDi"/>
+        <pin num="10" name="SEL" type="BiDi"/>
+        <pin num="11" name="IND" type="BiDi"/>
+        <pin num="12" name="OUTC" type="BiDi"/>
+        <pin num="13" name="OUTB" type="BiDi"/>
+        <pin num="14" name="OUTA" type="BiDi"/>
+        <pin num="15" name="GND2_2" type="BiDi"/>
+        <pin num="16" name="VISO" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="ISOW7842DWER-SamacSys_Parts-SamacSys_Parts">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">ISOW7842DWER-SamacSys_Parts-SamacSys_Parts</field>
+        <field name="Footprint">SOIC127P1030X265-16N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/isow7842</field>
+        <field name="Description">High-Efficiency, Low-Emissions, Reinforced Digital Isolator With Integrated Power</field>
+        <field name="Height">2.65</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">ISOW7842DWER</field>
+        <field name="Mouser Part Number">595-ISOW7842DWER</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=595-ISOW7842DWER</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VCC" type="BiDi"/>
+        <pin num="2" name="GND1_1" type="BiDi"/>
+        <pin num="3" name="INA" type="BiDi"/>
+        <pin num="4" name="INB" type="BiDi"/>
+        <pin num="5" name="OUTC" type="BiDi"/>
+        <pin num="6" name="OUTD" type="BiDi"/>
+        <pin num="7" name="NC" type="BiDi"/>
+        <pin num="8" name="GND1_2" type="BiDi"/>
+        <pin num="9" name="GND2_1" type="BiDi"/>
+        <pin num="10" name="SEL" type="BiDi"/>
+        <pin num="11" name="IND" type="BiDi"/>
+        <pin num="12" name="INC" type="BiDi"/>
+        <pin num="13" name="OUTB" type="BiDi"/>
+        <pin num="14" name="OUTA" type="BiDi"/>
+        <pin num="15" name="GND2_2" type="BiDi"/>
+        <pin num="16" name="VISO" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="LP3985IM5-3.0_NOPB-SamacSys_Parts-SamacSys_Parts">
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">LP3985IM5-3.0_NOPB-SamacSys_Parts-SamacSys_Parts</field>
+        <field name="Footprint">SOT95P280X145-5N</field>
+        <field name="Datasheet">http://www.ti.com/lit/gpn/lp3985</field>
+        <field name="Description">Texas Instruments LP3985IM5-3.0/NOPB, LDO Voltage Regulator, 0.15A, 3 V 3%, 2.5  6 Vin, 5-Pin SOT-23</field>
+        <field name="Height">1.45</field>
+        <field name="Manufacturer_Name">Texas Instruments</field>
+        <field name="Manufacturer_Part_Number">LP3985IM5-3.0/NOPB</field>
+        <field name="Mouser Part Number">926-3985IM5-3.0/NOPB</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=926-3985IM5-3.0%2FNOPB</field>
+        <field name="RS Part Number">1626345</field>
+        <field name="RS Price/Stock">http://uk.rs-online.com/web/p/products/1626345</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="BiDi"/>
+        <pin num="2" name="GND" type="BiDi"/>
+        <pin num="3" name="EN" type="BiDi"/>
+        <pin num="4" name="BYPASS" type="BiDi"/>
+        <pin num="5" name="OUT" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="SG-210STF_40.0000ML3-SamacSys_Parts">
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">SG-210STF_40.0000ML3-SamacSys_Parts</field>
+        <field name="Footprint">SG-210-STF_1</field>
+        <field name="Datasheet">https://support.epson.biz/td/api/doc_check.php?dl=brief_SG-210STF_en.pdf</field>
+        <field name="Description">Crystal Oscillator (SPXO) output: cmos</field>
+        <field name="Manufacturer_Name">Epson Timing</field>
+        <field name="Manufacturer_Part_Number">SG-210STF 40.0000ML3</field>
+        <field name="Mouser Part Number">732-SG210STF40.0L3</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=732-SG210STF40.0L3</field>
+      </fields>
+      <pins>
+        <pin num="1" name="ST" type="BiDi"/>
+        <pin num="2" name="GND" type="BiDi"/>
+        <pin num="3" name="OUT" type="BiDi"/>
+        <pin num="4" name="VCC" type="BiDi"/>
+      </pins>
+    </libpart>
+    <libpart lib="electrocardiograma+respiracion-rescue" part="SOLDERJUMPERREFLOW_NOPASTE-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue">
+      <fields>
+        <field name="Reference">SJ</field>
+        <field name="Value">SOLDERJUMPERREFLOW_NOPASTE-Adafruit_128x64_Mono_OLED_PCB_v2-eagle-import-pantalla-rescue</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector_Generic.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Diode.lib</uri>
+    </library>
+    <library logical="electrocardiograma+respiracion-rescue">
+      <uri>D:\electrocardiograma\proyecto/electrocardiograma+respiracion-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="ADRDY">
+      <node ref="IC3" pin="11"/>
+      <node ref="IC1" pin="22"/>
+    </net>
+    <net code="2" name="GNDA">
+      <node ref="IC3" pin="15"/>
+      <node ref="IC3" pin="10"/>
+      <node ref="SJ2" pin="2"/>
+      <node ref="R8" pin="1"/>
+      <node ref="C4" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="C19" pin="1"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="C25" pin="1"/>
+      <node ref="C27" pin="2"/>
+      <node ref="R6" pin="2"/>
+      <node ref="C31" pin="2"/>
+      <node ref="IC5" pin="2"/>
+      <node ref="IC3" pin="9"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="C20" pin="2"/>
+      <node ref="R10" pin="2"/>
+      <node ref="C12" pin="2"/>
+      <node ref="IC1" pin="12"/>
+      <node ref="C16" pin="2"/>
+      <node ref="C11" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="C29" pin="2"/>
+      <node ref="C21" pin="2"/>
+      <node ref="IC1" pin="13"/>
+    </net>
+    <net code="3" name="Net-(C21-Pad1)">
+      <node ref="Y1" pin="1"/>
+      <node ref="C21" pin="1"/>
+      <node ref="Y1" pin="4"/>
+    </net>
+    <net code="4" name="Net-(R14-Pad2)">
+      <node ref="Y1" pin="3"/>
+      <node ref="R14" pin="2"/>
+    </net>
+    <net code="5" name="CLK">
+      <node ref="IC1" pin="17"/>
+      <node ref="IC3" pin="13"/>
+      <node ref="R14" pin="1"/>
+    </net>
+    <net code="6" name="CLKSEL">
+      <node ref="SJ2" pin="1"/>
+      <node ref="IC1" pin="14"/>
+    </net>
+    <net code="7" name="VDD">
+      <node ref="C9" pin="1"/>
+      <node ref="C10" pin="1"/>
+      <node ref="FB1" pin="2"/>
+    </net>
+    <net code="8" name="IN1P">
+      <node ref="IC1" pin="4"/>
+      <node ref="C8" pin="1"/>
+      <node ref="R8" pin="2"/>
+      <node ref="R7" pin="1"/>
+    </net>
+    <net code="9" name="RESP_MODN_IN3N">
+      <node ref="IC1" pin="32"/>
+    </net>
+    <net code="10" name="RESP_MODP_IN3P">
+      <node ref="IC1" pin="31"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="11" name="Net-(IC1-Pad29)">
+      <node ref="IC1" pin="29"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="12" name="Net-(C15-Pad1)">
+      <node ref="IC1" pin="27"/>
+      <node ref="C15" pin="1"/>
+    </net>
+    <net code="13" name="Net-(IC1-Pad26)">
+      <node ref="IC1" pin="26"/>
+    </net>
+    <net code="14" name="Net-(IC1-Pad25)">
+      <node ref="IC1" pin="25"/>
+    </net>
+    <net code="15" name="SPI_ADOUT">
+      <node ref="IC4" pin="11"/>
+      <node ref="IC1" pin="21"/>
+    </net>
+    <net code="16" name="Net-(C13-Pad2)">
+      <node ref="C13" pin="2"/>
+      <node ref="IC1" pin="2"/>
+    </net>
+    <net code="17" name="START">
+      <node ref="IC3" pin="12"/>
+      <node ref="IC1" pin="16"/>
+    </net>
+    <net code="18" name="ARESET">
+      <node ref="IC3" pin="14"/>
+      <node ref="IC1" pin="15"/>
+    </net>
+    <net code="19" name="VDDA">
+      <node ref="C31" pin="3"/>
+      <node ref="R5" pin="1"/>
+      <node ref="C12" pin="1"/>
+      <node ref="R7" pin="2"/>
+      <node ref="C11" pin="1"/>
+    </net>
+    <net code="20" name="SPI_ACS">
+      <node ref="IC1" pin="18"/>
+      <node ref="IC4" pin="12"/>
+    </net>
+    <net code="21" name="SPI_ASCLK">
+      <node ref="IC1" pin="20"/>
+      <node ref="IC4" pin="13"/>
+    </net>
+    <net code="22" name="SPI_ADIN">
+      <node ref="IC1" pin="19"/>
+      <node ref="IC4" pin="14"/>
+    </net>
+    <net code="23" name="IN2P">
+      <node ref="C4" pin="1"/>
+      <node ref="IC1" pin="6"/>
+      <node ref="R2" pin="1"/>
+    </net>
+    <net code="24" name="ERA">
+      <node ref="J1" pin="R"/>
+      <node ref="J1" pin="S"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="2"/>
+      <node ref="J1" pin="T"/>
+    </net>
+    <net code="25" name="Net-(IC2-Pad1)">
+      <node ref="IC2" pin="1"/>
+      <node ref="IC2" pin="4"/>
+    </net>
+    <net code="26" name="Net-(C14-Pad1)">
+      <node ref="IC1" pin="7"/>
+      <node ref="C14" pin="1"/>
+    </net>
+    <net code="27" name="Net-(C18-Pad2)">
+      <node ref="C18" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="IC1" pin="10"/>
+    </net>
+    <net code="28" name="Net-(C16-Pad1)">
+      <node ref="IC1" pin="11"/>
+      <node ref="C16" pin="1"/>
+    </net>
+    <net code="29" name="Net-(C22-Pad1)">
+      <node ref="C22" pin="1"/>
+      <node ref="IC2" pin="5"/>
+    </net>
+    <net code="30" name="Net-(C20-Pad1)">
+      <node ref="C20" pin="1"/>
+      <node ref="IC2" pin="2"/>
+    </net>
+    <net code="31" name="Net-(C14-Pad2)">
+      <node ref="IC1" pin="8"/>
+      <node ref="C14" pin="2"/>
+    </net>
+    <net code="32" name="GNDD">
+      <node ref="IC4" pin="15"/>
+      <node ref="IC4" pin="10"/>
+      <node ref="IC4" pin="9"/>
+      <node ref="C26" pin="1"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C9" pin="2"/>
+      <node ref="R10" pin="1"/>
+      <node ref="IC1" pin="23"/>
+      <node ref="IC1" pin="24"/>
+      <node ref="C10" pin="2"/>
+    </net>
+    <net code="33" name="RLD">
+      <node ref="J3" pin="T"/>
+      <node ref="J3" pin="S"/>
+      <node ref="J3" pin="R"/>
+      <node ref="R13" pin="1"/>
+    </net>
+    <net code="34" name="IN2N">
+      <node ref="C3" pin="1"/>
+      <node ref="R1" pin="1"/>
+      <node ref="IC1" pin="5"/>
+    </net>
+    <net code="35" name="Net-(C17-Pad1)">
+      <node ref="C17" pin="1"/>
+      <node ref="IC1" pin="28"/>
+      <node ref="R12" pin="2"/>
+    </net>
+    <net code="36" name="IN1N">
+      <node ref="IC1" pin="3"/>
+      <node ref="R6" pin="1"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R5" pin="2"/>
+    </net>
+    <net code="37" name="Net-(C1-Pad1)">
+      <node ref="C6" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C1" pin="1"/>
+    </net>
+    <net code="38" name="Net-(C6-Pad1)">
+      <node ref="R3" pin="2"/>
+      <node ref="C6" pin="1"/>
+    </net>
+    <net code="39" name="RESP_MODP_IN3N">
+      <node ref="R3" pin="1"/>
+    </net>
+    <net code="40" name="Net-(C13-Pad1)">
+      <node ref="C13" pin="1"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="41" name="Net-(C17-Pad2)">
+      <node ref="R12" pin="1"/>
+      <node ref="R11" pin="1"/>
+      <node ref="R13" pin="2"/>
+      <node ref="IC2" pin="3"/>
+      <node ref="IC1" pin="30"/>
+      <node ref="C17" pin="2"/>
+    </net>
+    <net code="42" name="VREFP">
+      <node ref="IC1" pin="9"/>
+    </net>
+    <net code="43" name="ELA">
+      <node ref="C2" pin="2"/>
+      <node ref="J2" pin="T"/>
+      <node ref="J2" pin="S"/>
+      <node ref="J2" pin="R"/>
+      <node ref="R2" pin="2"/>
+    </net>
+    <net code="44" name="Net-(C2-Pad1)">
+      <node ref="C8" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="C7" pin="2"/>
+    </net>
+    <net code="45" name="Net-(C7-Pad1)">
+      <node ref="C7" pin="1"/>
+      <node ref="R4" pin="2"/>
+    </net>
+    <net code="46" name="Net-(IC4-Pad7)">
+      <node ref="IC4" pin="7"/>
+    </net>
+    <net code="47" name="SCK">
+      <node ref="J4" pin="4"/>
+      <node ref="IC4" pin="4"/>
+      <node ref="U1" pin="18"/>
+    </net>
+    <net code="48" name="DRDY">
+      <node ref="J5" pin="2"/>
+      <node ref="IC3" pin="6"/>
+    </net>
+    <net code="49" name="SCL">
+      <node ref="J5" pin="5"/>
+    </net>
+    <net code="50" name="SDA">
+      <node ref="J5" pin="6"/>
+      <node ref="U1" pin="20"/>
+      <node ref="U1" pin="19"/>
+    </net>
+    <net code="51" name="GND">
+      <node ref="U1" pin="30"/>
+      <node ref="R15" pin="1"/>
+      <node ref="C36" pin="1"/>
+      <node ref="U1" pin="12"/>
+      <node ref="U1" pin="10"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="25"/>
+      <node ref="U1" pin="29"/>
+      <node ref="U1" pin="23"/>
+      <node ref="U1" pin="21"/>
+      <node ref="U1" pin="17"/>
+      <node ref="U1" pin="16"/>
+      <node ref="U1" pin="22"/>
+      <node ref="C32" pin="2"/>
+      <node ref="U1" pin="8"/>
+      <node ref="C35" pin="1"/>
+      <node ref="C37" pin="1"/>
+      <node ref="R16" pin="2"/>
+      <node ref="U1" pin="13"/>
+      <node ref="SJ1" pin="2"/>
+      <node ref="U1" pin="24"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C24" pin="1"/>
+      <node ref="C23" pin="2"/>
+      <node ref="J4" pin="8"/>
+      <node ref="IC3" pin="8"/>
+      <node ref="J5" pin="8"/>
+      <node ref="IC4" pin="2"/>
+      <node ref="IC4" pin="8"/>
+      <node ref="IC3" pin="2"/>
+    </net>
+    <net code="52" name="MOSI">
+      <node ref="J4" pin="6"/>
+      <node ref="IC4" pin="3"/>
+    </net>
+    <net code="53" name="MISO">
+      <node ref="IC4" pin="6"/>
+      <node ref="J4" pin="5"/>
+    </net>
+    <net code="54" name="CS">
+      <node ref="IC4" pin="5"/>
+      <node ref="J4" pin="3"/>
+    </net>
+    <net code="55" name="RST-Warp7">
+      <node ref="J4" pin="2"/>
+      <node ref="R17" pin="1"/>
+    </net>
+    <net code="56" name="+3V3">
+      <node ref="IC4" pin="1"/>
+      <node ref="J4" pin="7"/>
+      <node ref="C24" pin="2"/>
+      <node ref="IC3" pin="1"/>
+      <node ref="U1" pin="11"/>
+      <node ref="C23" pin="1"/>
+      <node ref="U1" pin="9"/>
+      <node ref="C32" pin="1"/>
+      <node ref="R15" pin="2"/>
+      <node ref="U1" pin="6"/>
+      <node ref="C36" pin="2"/>
+    </net>
+    <net code="57" name="Net-(J5-Pad3)">
+      <node ref="J5" pin="3"/>
+    </net>
+    <net code="58" name="Net-(J5-Pad4)">
+      <node ref="J5" pin="4"/>
+    </net>
+    <net code="59" name="Net-(J5-Pad7)">
+      <node ref="J5" pin="7"/>
+    </net>
+    <net code="60" name="STARTB">
+      <node ref="IC3" pin="5"/>
+      <node ref="J5" pin="1"/>
+    </net>
+    <net code="61" name="CLKB">
+      <node ref="IC3" pin="4"/>
+    </net>
+    <net code="62" name="RST">
+      <node ref="SJ1" pin="1"/>
+      <node ref="U1" pin="14"/>
+      <node ref="D1" pin="1"/>
+      <node ref="IC3" pin="3"/>
+      <node ref="R17" pin="2"/>
+    </net>
+    <net code="63" name="Net-(IC3-Pad7)">
+      <node ref="IC3" pin="7"/>
+    </net>
+    <net code="64" name="Net-(J4-Pad1)">
+      <node ref="J4" pin="1"/>
+    </net>
+    <net code="65" name="Net-(C25-Pad2)">
+      <node ref="IC3" pin="16"/>
+      <node ref="C25" pin="2"/>
+      <node ref="C27" pin="1"/>
+      <node ref="IC5" pin="1"/>
+      <node ref="IC5" pin="3"/>
+    </net>
+    <net code="66" name="Net-(C29-Pad1)">
+      <node ref="C29" pin="1"/>
+      <node ref="IC5" pin="5"/>
+    </net>
+    <net code="67" name="Net-(C26-Pad2)">
+      <node ref="IC4" pin="16"/>
+      <node ref="C26" pin="2"/>
+      <node ref="C28" pin="1"/>
+      <node ref="FB1" pin="1"/>
+    </net>
+    <net code="68" name="Net-(C30-Pad1)">
+      <node ref="C31" pin="1"/>
+      <node ref="IC5" pin="4"/>
+      <node ref="C30" pin="1"/>
+    </net>
+    <net code="69" name="DC_SAO_3.3V">
+      <node ref="U1" pin="15"/>
+    </net>
+    <net code="70" name="Net-(C38-Pad1)">
+      <node ref="D1" pin="2"/>
+      <node ref="C38" pin="1"/>
+    </net>
+    <net code="71" name="Net-(C35-Pad2)">
+      <node ref="U1" pin="28"/>
+      <node ref="C35" pin="2"/>
+    </net>
+    <net code="72" name="Net-(C37-Pad2)">
+      <node ref="U1" pin="27"/>
+      <node ref="C37" pin="2"/>
+    </net>
+    <net code="73" name="Net-(R16-Pad1)">
+      <node ref="U1" pin="26"/>
+      <node ref="R16" pin="1"/>
+    </net>
+    <net code="74" name="Net-(C34-Pad2)">
+      <node ref="U1" pin="5"/>
+      <node ref="C34" pin="2"/>
+    </net>
+    <net code="75" name="Net-(U1-Pad7)">
+      <node ref="U1" pin="7"/>
+    </net>
+    <net code="76" name="Net-(C34-Pad1)">
+      <node ref="C34" pin="1"/>
+      <node ref="U1" pin="4"/>
+    </net>
+    <net code="77" name="Net-(C33-Pad1)">
+      <node ref="U1" pin="2"/>
+      <node ref="C33" pin="1"/>
+    </net>
+    <net code="78" name="Net-(C33-Pad2)">
+      <node ref="C33" pin="2"/>
+      <node ref="U1" pin="3"/>
+    </net>
+  </nets>
+</export>
